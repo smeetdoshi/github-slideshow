@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+All that glitters is not gold.
 Use the left arrow to go back!
